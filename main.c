@@ -11,6 +11,11 @@ typedef struct node
 
 sm *newnode,*ptr,*head=NULL,*tail=NULL,*temphead=NULL;
 void read();
+
+
+
+
+
 void add();
 void sub();
 void mul();
